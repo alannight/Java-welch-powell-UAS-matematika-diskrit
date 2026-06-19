@@ -19,13 +19,21 @@ Java Development Kit (JDK) versi 8 atau yang lebih baru.
 
 2. Menggunakan terminal
 - Melakukan clonning repositori
+  ```bash
   git clone https://github.com/alannight/Java-welch-powell-UAS-matematika-diskrit
+  ```
 - Masuk kedalam repository
+  ```bash
   cd nama_repository
+  ```
 - Melakukan Kompilasi file Java
+  ```bash
   javac WelchPowellApp.java
+  ```
 - Menjalankan Aplikasi
+  ```bash
   python3 WelchPowellApp.java
+  ```
 
 # Cara Kerja Algoritma Welch-Powell (Di dalam Aplikasi)
 1. Mencari jumlah koneksi (edge/konflik) untuk setiap node.
