@@ -20,11 +20,11 @@ Java Development Kit (JDK) versi 8 atau yang lebih baru.
 2. Menggunakan terminal
 - Melakukan clonning repositori
   ```bash
-  git clone https://github.com/alannight/Java-welch-powell-UAS-matematika-diskrit
+  git clone https://github.com/alannight/Java-welch-powell-UAS-matematika-diskrit ~/WelchPowell
   ```
 - Masuk kedalam repository
   ```bash
-  cd nama_repository
+  cd ~/WelchPowel
   ```
 - Melakukan Kompilasi file Java
   ```bash
